@@ -1,0 +1,7 @@
+*.class
+*.jar
+*.bak
+Cache/
+logs/
+build/
+target/
